@@ -1,5 +1,5 @@
 # Input audio
-The input audio fed to the models is "Cymatics - Dubstep Buildup Drums 2 - 150 BPM.wav"
+The input audio fed to the models is "Cymatics - Dubstep Buildup Drums 2 - 150 BPM.wav" from the free Cymatics Dubstep Starter Pack.
 
 # File Description
 The remaining audio files are in the format
